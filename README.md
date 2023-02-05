@@ -2,25 +2,29 @@
 
 ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the official GT racing simulator
 
-
 ## Release History
 
-v1.0.0-alpha.2 - 2023-01-31
+### v1.0.0-alpha.3 - 2023-01-31
+
+#### Added
+- New Lap Recorder tool with support for side by side comparison of drivers
+
+### v1.0.0-alpha.2 - 2023-01-31
 Small change to test revised automatic update
 
-Addeds
+#### Added
 - UI for automatic update with progress indicator
 
-Changed
+#### Changed
 - Renamed Track Maps to Track Map Builder
 
-Fixed
+#### Fixed
 - Automatic update
 
-v1.0.0-alpha.1 - 2023-01-28
+### v1.0.0-alpha.1 - 2023-01-28
 Initial release of the tools with the following completed features
 
-Added
+#### Added
 - Setup Manager
 - Track Map
 - Result File Tracker

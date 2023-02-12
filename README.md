@@ -4,6 +4,19 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 
 ## Release History
 
+
+### v1.0.0-alpha.5 - 2023-02-12
+
+#### Added
+- Dashboard
+- Fastest Laps table on Dashboard
+- Track Time Distribution chart on Dashboard
+- Car Time Distribution chart on Dashboard
+
+#### Fixed
+- Issue where settings could end up empty
+- Issue where changes to app settings were not picked up on deployment
+
 ### v1.0.0-alpha.4 - 2023-02-11
 
 #### Added

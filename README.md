@@ -4,6 +4,10 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 
 ## Release History
 
+### v1.0.0-alpha.6 - 2023-02-12
+
+#### Fixed
+- Dashboard layout for 1080p screen resolution
 
 ### v1.0.0-alpha.5 - 2023-02-12
 

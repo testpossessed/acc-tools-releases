@@ -4,6 +4,12 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 
 ## Release History
 
+
+### v1.0.0-alpha.8- 2023-02-12
+
+#### Fixed
+- Issue where car id is different when online to offline
+
 ### v1.0.0-alpha.7- 2023-02-12
 
 #### Changed

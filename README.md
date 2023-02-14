@@ -5,6 +5,17 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 ## Release History
 
 
+### v1.0.0-alpha.9- 2023-02-14
+
+#### Added
+- Delete session from lap recorder
+- Delete own lap from lap recorder primary driver table
+
+#### Fixed
+- User settings not saving property due to dumb developer error
+- Driver laps lists not updating on driver selection
+- Stats not updating correctly at end of session
+
 ### v1.0.0-alpha.8- 2023-02-12
 
 #### Fixed

@@ -4,8 +4,13 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 
 ## Release History
 
+### v1.0.0-beta-2- 2023-02-15
 
-### v1.0.0-alpha.9- 2023-02-14
+#### Added
+- Option to automatically start Lap Time Recorder on startup
+- Export Fastest Laps to Excel or CSV
+
+### v1.0.0-beta.1 - 2023-02-14
 
 #### Added
 - Delete session from lap recorder

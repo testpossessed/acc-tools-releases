@@ -4,10 +4,15 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 
 ## Release History
 
+### v1.0.0-beta-5- 2023-02-17
+
+#### Fixed
+- Trying to disconnect from unconnected telemetry connectioin disabled in last quick fix
+
 ### v1.0.0-beta-4- 2023-02-17
 
 #### Changed
-- Diable feature that is work in progress and should have been disabled in last release
+- Disable feature that is work in progress and should have been disabled in last release
 
 ### v1.0.0-beta-3- 2023-02-17
 

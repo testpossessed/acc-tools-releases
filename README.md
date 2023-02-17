@@ -4,6 +4,11 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 
 ## Release History
 
+### v1.0.0-beta-3- 2023-02-17
+
+#### Changed
+- Moved Enable Diagnostics Mode checkox to settings panel to avoid temptation to enable it without being asked by support
+
 ### v1.0.0-beta-2- 2023-02-15
 
 #### Added

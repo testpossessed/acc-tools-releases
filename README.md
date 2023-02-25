@@ -4,6 +4,12 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 
 ## Release History
 
+### v1.0.0-beta-10- 2023-02-25
+
+#### Fixed
+- Issue with time into lap on telemetry frames
+- Issue where 
+
 ### v1.0.0-beta-9- 2023-02-25
 
 #### Added

@@ -4,6 +4,16 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 
 ## Release History
 
+### Unreleased
+
+### Added
+- Livery Manager
+
+### v1.0.0-beta-12- 2023-03-03
+
+#### Added
+- Generated track image to Lap Analyser
+
 ### v1.0.0-beta-11- 2023-02-27
 
 #### Changed

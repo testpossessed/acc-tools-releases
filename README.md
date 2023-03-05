@@ -5,16 +5,19 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 ## Release History
 
 ### Unreleased
+- Release Candidate Preparation
+
+### v1.0.0-beta.13 - 2023-03-05
 
 ### Added
 - Livery Manager
 
-### v1.0.0-beta-12- 2023-03-03
+### v1.0.0-beta.12 - 2023-03-03
 
 #### Added
 - Generated track image to Lap Analyser
 
-### v1.0.0-beta-11- 2023-02-27
+### v1.0.0-beta.11 - 2023-02-27
 
 #### Changed
 - Completed release candidate of Lap Analyser
@@ -23,13 +26,13 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 #### Fixed
 - Issue with new event notifications from telemetry interface
 
-### v1.0.0-beta-10- 2023-02-25
+### v1.0.0-beta.10 - 2023-02-25
 
 #### Fixed
 - Issue with time into lap on telemetry frames
 - Issue where telemetry laps view was not refreshing when recording stops
 
-### v1.0.0-beta-9- 2023-02-25
+### v1.0.0-beta.9 - 2023-02-25
 
 #### Added
 - Telemetry laps view to Lap Recorder
@@ -41,7 +44,7 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 #### Fixed
 - Issue where views had stopped refreshing automatically when recording is stopped
 
-### v1.0.0-beta-8- 2023-02-24
+### v1.0.0-beta.8 - 2023-02-24
 
 #### Added
 - Logging of database operations
@@ -53,7 +56,7 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 #### Fixed
 - Threading issue with DbContext
 
-### v1.0.0-beta-7- 2023-02-20
+### v1.0.0-beta.7 - 2023-02-20
 
 #### Added
 - Telemetry logs to Log Viewer
@@ -61,7 +64,7 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 #### Changed
 - Optimised layout of Lap Times Viewer for 1080p screens
 
-### v1.0.0-beta-6- 2023-02-19
+### v1.0.0-beta.6 - 2023-02-19
 
 #### Added
 - Initial live telemerty view
@@ -69,22 +72,22 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 
 The monitor is disabled for now
 
-### v1.0.0-beta-5- 2023-02-17
+### v1.0.0-beta.5 - 2023-02-17
 
 #### Fixed
 - Trying to disconnect from unconnected telemetry connectioin disabled in last quick fix
 
-### v1.0.0-beta-4- 2023-02-17
+### v1.0.0-beta.4 - 2023-02-17
 
 #### Changed
 - Disable feature that is work in progress and should have been disabled in last release
 
-### v1.0.0-beta-3- 2023-02-17
+### v1.0.0-beta.3 - 2023-02-17
 
 #### Changed
 - Moved Enable Diagnostics Mode checkox to settings panel to avoid temptation to enable it without being asked by support
 
-### v1.0.0-beta-2- 2023-02-15
+### v1.0.0-beta.2 - 2023-02-15
 
 #### Added
 - Option to automatically start Lap Time Recorder on startup
@@ -101,12 +104,12 @@ The monitor is disabled for now
 - Driver laps lists not updating on driver selection
 - Stats not updating correctly at end of session
 
-### v1.0.0-alpha.8- 2023-02-12
+### v1.0.0-alpha.8 - 2023-02-12
 
 #### Fixed
 - Issue where car id is different when online to offline
 
-### v1.0.0-alpha.7- 2023-02-12
+### v1.0.0-alpha.7 - 2023-02-12
 
 #### Changed
 - Switched to tabs for dashboard analysis section

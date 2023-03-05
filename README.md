@@ -7,9 +7,14 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 ### Unreleased
 - Release Candidate Preparation
 
+### v1.0.0-beta.14 - 2023-03-05
+
+#### Fixed
+- ACC Model id Lamborghini Gallardo  
+
 ### v1.0.0-beta.13 - 2023-03-05
 
-### Added
+#### Added
 - Livery Manager
 
 ### v1.0.0-beta.12 - 2023-03-03

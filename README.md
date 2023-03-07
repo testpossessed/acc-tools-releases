@@ -7,6 +7,11 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 ### Unreleased
 - Release hardening and polishing
 
+### v1.0.0-rc.2
+
+#### Fixed
+- Error when cleaning generated image files and folder does not exist
+
 ### v1.0.0-rc.1
 
 #### Fixed

@@ -7,6 +7,14 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 ### Unreleased
 - Release hardening and polishing
 
+### v1.0.0-rc.5
+
+#### Added
+- Duration to Broadcast Session.
+
+#### Changed
+- End of Broadcast Session handling in attempt to address the track name not being captured.
+
 ### v1.0.0-rc.4
 
 #### Fixed

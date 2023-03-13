@@ -7,6 +7,9 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 ### Unreleased
 - Release hardening and polishing
 
+### v1.0.0-rc.6
+- Layout tweaks for track map and lap recorder telemetry table
+
 ### v1.0.0-rc.5
 
 #### Added

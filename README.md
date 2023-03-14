@@ -5,12 +5,18 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 ## Release History
 
 ### Unreleased
-- Release hardening and polishing
 
-### v1.0.0-rc.6
+### v1.0.0 - 2023-03-14
+
+- Published web site at https://acctools.co.uk
+- Released initial production version
+
+### v1.0.0-rc.6 - 2023-03-02
+
+#### Changed
 - Layout tweaks for track map and lap recorder telemetry table
 
-### v1.0.0-rc.5
+### v1.0.0-rc.5 - 2023-03-12
 
 #### Added
 - Duration to Broadcast Session.
@@ -18,7 +24,7 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 #### Changed
 - End of Broadcast Session handling in attempt to address the track name not being captured.
 
-### v1.0.0-rc.4
+### v1.0.0-rc.4 - 2023-03-10
 
 #### Fixed
 - Speculative fix for intermittent missing track name
@@ -29,17 +35,17 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 #### Fixed
 - Error when no cars or tracks available in lap analyser
 
-### v1.0.0-rc.3
+### v1.0.0-rc.3 - 2023-03-08
 
 #### Fixed
 - Error when no cars or tracks available in lap analyser
 
-### v1.0.0-rc.2
+### v1.0.0-rc.2 - 2023-03-06
 
 #### Fixed
 - Error when cleaning generated image files and folder does not exist
 
-### v1.0.0-rc.1
+### v1.0.0-rc.1 - 2023-03-06
 
 #### Fixed
 - Track image generation

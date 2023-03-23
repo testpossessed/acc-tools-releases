@@ -6,6 +6,12 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 
 ### Unreleased
 
+### v1.1.0 - 2023-03-23
+
+#### Added
+- Fuel Calculator on Race Engineer tab
+- Link to web site under Help
+
 ### v1.0.0 - 2023-03-14
 
 - Published web site at https://acctools.co.uk

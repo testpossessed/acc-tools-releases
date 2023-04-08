@@ -6,6 +6,11 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 
 ### Unreleased
 
+### v1.2.1 - 2023-04-08
+
+### Fixed
+- Coloring of Balance panel according to state
+
 ### v1.2.0 - 2023-04-08
 
 #### Added

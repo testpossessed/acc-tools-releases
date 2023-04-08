@@ -6,6 +6,11 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 
 ### Unreleased
 
+### v1.2.0 - 2023-04-08
+
+#### Added
+- Tyre Optimiser on Race Engineer tab
+
 ### v1.1.1 - 2023-03-24
 
 #### Changed

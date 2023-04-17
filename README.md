@@ -6,6 +6,12 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 
 ### Unreleased
 
+### v1.2.2 - 2023-04-17
+
+### Changed
+- Result File Tracker now ignores server result files copied to local ACC Results folder, it is not intended to read these which are in a different format.
+- Setup Manager now ignores non-setup files copied to the local ACC Setups folder such as MOTEC files included with GO Setups
+
 ### v1.2.1 - 2023-04-08
 
 ### Fixed

@@ -6,6 +6,14 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 
 ### Unreleased
 
+### v1.4.0 - 2023-05-19
+
+### Added
+- New Tyre Pressure Calculator
+
+### Changed
+- Temporarily hidden Tyre Temperature Optimiser, will restore soon
+
 ### v1.3.1 - 2023-04-20
 
 #### Added

@@ -6,7 +6,12 @@ ACC Tools is a suite of tools to compliment Assetto Corsa Competizione the offic
 
 ### Unreleased
 
-### v1.4.1 - 2023-05-20
+## v1.4.3 - 2023-05-27
+
+### Added
+- McLaren 720s Evo
+
+## v1.4.1 - 2023-05-20
 
 ### Changed
 - Logo

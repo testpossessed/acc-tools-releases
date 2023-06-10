@@ -2,6 +2,11 @@
 
 ## Release History
 
+### v1.4.6 - 2023-06-10
+
+#### Changed
+- Vehicle manufacturer icons to new ones without text
+
 
 ### v1.4.5 - 2023-06-09
 
@@ -15,7 +20,6 @@
 
 #### Fixed
 - Lap recorder deleting laps were X or Y coordinate was negative
-
 
 
 ### v1.4.4 - 2023-06-02

@@ -2,6 +2,11 @@
 
 ## Release History
 
+### v1.4.7 - 2023-06-12
+
+#### Changed
+- Optimisations for lap recorder
+
 ### v1.4.6 - 2023-06-10
 
 #### Changed

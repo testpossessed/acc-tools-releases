@@ -2,10 +2,17 @@
 
 ## Release History
 
+### v1.4.8 - 2023-06-16
+
+#### Changed
+- Rounded average values taken from database in Fuel Calculator
+
+
 ### v1.4.7 - 2023-06-12
 
 #### Changed
 - Optimisations for lap recorder
+
 
 ### v1.4.6 - 2023-06-10
 

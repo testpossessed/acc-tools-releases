@@ -2,6 +2,11 @@
 
 ## Release History
 
+### v1.4.9 - 2023-10-24
+
+#### Changed
+- Added message notifying user of installer switch
+
 ### v1.4.8 - 2023-06-16
 
 #### Changed

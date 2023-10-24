@@ -2,7 +2,7 @@
 
 ## Release History
 
-### v1.5.0 - 2023-10-24
+### v1.5.2 - 2023-10-24
 
 #### Changed
 - Replaced original installer package with MSI installer

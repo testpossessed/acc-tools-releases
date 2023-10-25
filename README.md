@@ -2,6 +2,11 @@
 
 ## Release History
 
+### v1.5.3 - 2023-10-25
+
+#### Fixed
+- Added missing files for setup manager data not included in new installer package
+
 ### v1.5.2 - 2023-10-24
 
 #### Changed

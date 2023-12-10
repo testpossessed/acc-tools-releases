@@ -2,6 +2,17 @@
 
 ## Release History
 
+### v1.6.0 - 2023-12-07
+
+#### Added
+
+- Added visualisation of steering inputs in Lap Analyser
+
+#### Changed
+- Removed modal message when software is up to date in favour of simple toast notification
+- Improved rendering of mini map in Lap Analyser
+
+
 ### v1.5.3 - 2023-10-25
 
 #### Fixed
